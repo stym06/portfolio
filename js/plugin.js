@@ -1,17 +1,3 @@
-/* Table Of Content 
-
-  1. Bootstrap
-  2. Magnific Popup
-  3. MixItUp
-  4. Stellar.js
-  5. Owl Carousel
-  6. Typed.js
-  7. Jquery Appear
-  8. CountTo
-  9. Google Map
-
-*/
-
 
 
 /*!
